@@ -1,0 +1,3 @@
+---
+- src: shomatan.nginx
+  version: 0.9.0
