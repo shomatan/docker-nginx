@@ -1,5 +1,3 @@
-# docker-nginx
+# Docker: Nginx
 
-## Installation
-
-    ansible-galaxy install -p roles/ -r requirements.yml
+Based on the latest official nginx image.
