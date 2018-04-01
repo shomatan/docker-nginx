@@ -1,6 +1,6 @@
-FROM nginx:1.13.1-alpine
+FROM nginx:1.13.10-alpine
 
-MAINTAINER Shoma Nishitateno <shoma416@gmail.com>
+MAINTAINER Shoma Nishitateno
 
 RUN set -ex \
     && addgroup -S www -g 1000 \
