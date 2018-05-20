@@ -1,4 +1,4 @@
-FROM nginx:1.13.10-alpine
+FROM nginx:1.14.0-alpine
 
 MAINTAINER Shoma Nishitateno
 
