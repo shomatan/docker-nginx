@@ -1,6 +1,6 @@
 FROM nginx:1.14.0-alpine
 
-MAINTAINER Shoma Nishitateno
+LABEL maintainer "Shoma Nishitateno <shoma416@gmail.com>"
 
 RUN set -ex \
     && addgroup -S www -g 1000 \
